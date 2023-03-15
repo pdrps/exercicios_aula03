@@ -1,0 +1,74 @@
+body
+{
+    background-color: rgb(5, 53, 5);
+}
+
+.titulo
+{
+    margin-left: 520px;
+    font-size: 40px;
+    color: white;
+}
+
+.grupo_a
+{
+    color: white;
+    width: 150px;
+font-size: 20px;
+}
+
+.grupo_b
+{
+    color: white;
+    width: 190px;
+font-size: 20px;
+}
+
+.grupo_c
+{
+    color: white;
+    width: 190px;
+font-size: 20px;
+}
+
+.grupo_d
+{
+    color: white;
+    width: 190px;
+font-size: 20px;
+}
+
+.grupo_f
+{
+    color: white;
+    width: 190px;
+font-size: 20px;
+}
+
+.grupo_g
+{
+    color: white;
+    width: 190px;
+font-size: 20px;
+}
+
+.titulo_grupo
+{
+    margin-left: 30px;
+}
+
+.linha1
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.linha2
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
